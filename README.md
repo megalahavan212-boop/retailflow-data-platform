@@ -1,2 +1,2 @@
 # retailflow-data-platform
-A teaching project for batch ingestion, data transformation, dimensional modeling, orchestration, testing, deployment and production support.
+End-to-end retail sales data engineering project using Snowflake, dbt, Airflow and SQL
