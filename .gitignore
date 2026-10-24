@@ -1,0 +1,15 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+
+# dbt-generated files
+retailflow_dbt/target/
+retailflow_dbt/logs/
+retailflow_dbt/dbt_packages/
+
+# Local data and secrets
+data/*
+!data/.gitkeep
+*.pem
+*.key
