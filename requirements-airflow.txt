@@ -1,0 +1,4 @@
+# Install into the existing Airflow environment using constraints compatible
+# with that Airflow version. Do not install/upgrade Airflow from this file.
+apache-airflow-providers-snowflake
+dbt-snowflake
